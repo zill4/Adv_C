@@ -1,0 +1,9 @@
+I am making a commit, this commit should update Glip
+
+Queue 
+for_each(bob.begin(),bob.end()-1,[&]{
+  left=Queue.top().pop()
+  right=Queue.top().pop()
+  freq = left.freq + right.freq
+  insert (n.freq)
+print(done)
